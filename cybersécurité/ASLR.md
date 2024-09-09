@@ -1,0 +1,2 @@
+
+La randomisation de l'espace d'adressage (ASLR) est une technique de sécurité utilisée dans les systèmes d'exploitation pour randomiser les adresses mémoire utilisées par les processus système et d'application. Ce faisant, il devient significativement plus difficile pour un attaquant de prédire l'emplacement de processus et de données spécifiques, tels que la pile, le tas et les bibliothèques, réduisant ainsi certains types d'exploitations, en particulier les débordements de tampon.

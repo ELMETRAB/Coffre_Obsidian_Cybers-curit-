@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "211f175353c0d24c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2e0c8ee7c5e5bbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99d904b041e91b05",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d61504c81db2fa69",
+    "type": "split",
+    "children": [
+      {
+        "id": "f375842fcd3f325d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e8c193548cabf8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "867fd6d6e32d3bd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Steghide",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a90131b14ee705f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "right": {
+    "id": "d0b3f58a06517785",
+    "type": "split",
+    "children": [
+      {
+        "id": "96ab80c5c74152f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e309b2ae1dc616",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a2cab3598b0b9ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31197d59067f4e27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a90a5707ac91363",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9e8c193548cabf8f",
+  "lastOpenFiles": [
+    "Docker.md",
+    "PS4 to PC Conversion.md",
+    "Untitled.md",
+    "Pasted image 20240907110642.png",
+    "Démonstration faille sécurité.md",
+    "Stéganographie/point jaune document.md",
+    "Stéganographie/Micropoint.md",
+    "Stéganographie",
+    "API RESTful.md",
+    "C.md",
+    "Reseaux/lister toutes les IP dans le réseau connecté via Terminal.md",
+    "Intelligence artificielle.md",
+    "CTF/la nuit du hacker 2.md",
+    "Cryptographie",
+    "API SOAP.md",
+    "ASLR.md",
+    "OS/OpenBSD.md",
+    "Reseaux/Port.md",
+    "Reseaux/nmap.md",
+    "CVE/cross site request forgery.md",
+    "API.md",
+    "Malware/Wiper.md",
+    "OS/Unix.md",
+    "OS/linux/Linux.md",
+    "z/Pasted image 20240817110900.png",
+    "z/Pasted image 20240215111741.png",
+    "PROGRAMMATION/Programmation orienté objet.md",
+    "CVE",
+    "PROGRAMMATION/Assembleur.md",
+    "Reseaux/Quic.md",
+    "Reseaux/TCP.md",
+    "Reseaux/UDP.md",
+    "Reseaux",
+    "z/Pasted image 20240817102541.png",
+    "z",
+    "Pasted image 20240817102436.png",
+    "Malware",
+    "CTF",
+    "OS/linux",
+    "OS/Windows",
+    "OS"
+  ]
+}
