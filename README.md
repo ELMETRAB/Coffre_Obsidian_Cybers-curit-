@@ -1,15 +1,15 @@
-# Obsidian_cybersecurity
 
-## Intrdocution
+## Introduction
 
-Ce repository contient des notes autours de la cybersécurité sur le logiciel Obsidian.
+Ce repository contient des notes autour de la cybersécurité sur le logiciel Obsidian.
 
-### présentation de obsidian : 
+### présentation d' Obsidian : 
 
-Obsidian est un logiciel de prise de note qui ajoute plusieurs fonctionalités notament :
+Obsidian est un logiciel de prise de note qui ajoute plusieurs fonctionnalités, notamment :
 
-- la possibilité de lié des notes et d'avoir un aperçue graphique de celle-ci.
-- On peut intégrer dans les notes des vidéo des fichiers pdf. Ce qui permet d'avoir un fichier dynamique qui n'est pas uniquement composé de texte. 
+- la possibilité de lier des notes et d'avoir un aperçu graphique de celles-ci.
+- On peut intégrer dans les notes des vidéos des fichiers PDF. Ce qui permet d'avoir un fichier dynamique qui n'est pas uniquement composé de texte.
+- le concept des coffres, ce sont des répertoires qui représentent chacun un projet, on peut ainsi avoir plusieurs groupes de notes classés par thème.
 
 ![image](https://github.com/user-attachments/assets/30787e91-f55c-4e61-ae80-42185ca6c53f)
 
@@ -20,7 +20,7 @@ Obsidian est un logiciel de prise de note qui ajoute plusieurs fonctionalités n
 
 Installer Obsidian : https://obsidian.md/download
 
-Ensuite lancez le.
+Ensuite, lancez-le.
 
 ### Étape 2 :
 
@@ -30,15 +30,13 @@ installer ce coffre en cliquant sur coffre puis download zip :
 
 ### Étape 3 :
 
-Une fois le dossier installer puis décomprésser 
+Une fois le dossier installé, puis décompresser. 
 
-sur la page d'accueil cliquez sur ouvrir un dossier comme coffre :
+Sur la page d'accueil, cliquez sur ouvrir un dossier comme coffre :
 
 <img width="600" alt="tutoriel_installation_2" src="https://github.com/user-attachments/assets/2a851060-fc3d-461d-ba13-0287d1972672">
 
 
-puis séléctionnez le document cybersécurité :
+Puis sélectionnez le document cybersécurité :
 
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/d47da25c-576d-4f03-aa42-948153d99e6a">
-
-
