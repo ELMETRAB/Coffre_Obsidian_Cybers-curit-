@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e2e0c8ee7c5e5bbd",
+        "id": "2dc7f9a83a3861d1",
         "type": "tabs",
         "children": [
           {
-            "id": "99d904b041e91b05",
+            "id": "531aa35f49c6f355",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reseaux/ZTNA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reseaux/ZTNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reseaux/ZTNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Reseaux/ZTNA.md"
               }
             }
           }
@@ -132,50 +138,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
   "active": "9e8c193548cabf8f",
   "lastOpenFiles": [
-    "Docker.md",
-    "PS4 to PC Conversion.md",
-    "Untitled.md",
-    "Pasted image 20240907110642.png",
-    "Démonstration faille sécurité.md",
-    "Stéganographie/point jaune document.md",
-    "Stéganographie/Micropoint.md",
-    "Stéganographie",
-    "API RESTful.md",
-    "C.md",
-    "Reseaux/lister toutes les IP dans le réseau connecté via Terminal.md",
-    "Intelligence artificielle.md",
-    "CTF/la nuit du hacker 2.md",
-    "Cryptographie",
-    "API SOAP.md",
-    "ASLR.md",
-    "OS/OpenBSD.md",
+    "key.256x256.png",
+    "key.512x512.png",
+    "key.svg",
+    "Reseaux/VPN.md",
     "Reseaux/Port.md",
-    "Reseaux/nmap.md",
-    "CVE/cross site request forgery.md",
-    "API.md",
-    "Malware/Wiper.md",
-    "OS/Unix.md",
+    "ANONYMAT/Tor.md",
+    "Reseaux/ZTNA.md",
+    "Reseaux/Micro segmentation.md",
+    "OSINT/Shodan.md",
+    "z/Pasted image 20240912233713.png",
+    "z/Pasted image 20240912233643.png",
+    "CTF/la nuit du hacker 2.md",
+    "CVE/PS4 to PC Conversion.md",
     "OS/linux/Linux.md",
-    "z/Pasted image 20240817110900.png",
-    "z/Pasted image 20240215111741.png",
-    "PROGRAMMATION/Programmation orienté objet.md",
-    "CVE",
     "PROGRAMMATION/Assembleur.md",
-    "Reseaux/Quic.md",
+    "OS/Unix.md",
+    "OS/OpenBSD.md",
+    "Reseaux/nmap.md",
     "Reseaux/TCP.md",
     "Reseaux/UDP.md",
-    "Reseaux",
+    "Reseaux/Quic.md",
+    "CVE/Intelligence artificielle.md",
+    "PROGRAMMATION/Programmation orienté objet.md",
+    "PROGRAMMATION/C.md",
+    "CVE/Démonstration faille sécurité.md",
+    "Stéganographie/Micropoint.md",
+    "OS/ASLR.md",
+    "Stéganographie/point jaune document.md",
+    "z/Pasted image 20240912201359.png",
+    "Reseaux/API.md",
+    "OS/Docker.md",
+    "z/Pasted image 20240907110642.png",
+    "z/Pasted image 20240817110900.png",
     "z/Pasted image 20240817102541.png",
+    "z/Pasted image 20240215111741.png",
+    "Stéganographie",
+    "Cryptographie",
+    "CVE",
+    "Reseaux",
     "z",
     "Pasted image 20240817102436.png",
     "Malware",

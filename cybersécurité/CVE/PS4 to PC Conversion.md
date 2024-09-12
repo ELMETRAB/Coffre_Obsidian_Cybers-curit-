@@ -1,8 +1,5 @@
 
 
-
-Based on the search results, it is theoretically possible to install a Linux operating system on a PS4, making it a gaming PC. However, there are significant limitations and challenges involved.
-
 **Key Requirements:**
 
 1. PS4 firmware version 1.76 or earlier
@@ -27,7 +24,3 @@ Based on the search results, it is theoretically possible to install a Linux ope
 3. Limited hardware resources, such as RAM and storage, compared to modern PCs
 4. No support for standard PC peripherals, like keyboards and mice, without additional configuration
 5. Potential stability and performance issues due to the modified OS and hardware configuration
-
-**Conclusion:**
-
-While it is technically possible to transform a PS4 into a PC-like device using Linux, the process is complex and requires significant technical expertise. The resulting system will likely have limitations and performance issues compared to a standard gaming PC. Therefore, it is not recommended for those without extensive experience with Linux and hardware modification.
